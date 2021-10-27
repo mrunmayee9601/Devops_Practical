@@ -8,5 +8,6 @@ public class Main {
         System.out.println("This a new line making changes!");
         System.out.println("This is the third line");
         System.out.println("Making few more changes ");
+        System.out.println("New line");
     }
 }
