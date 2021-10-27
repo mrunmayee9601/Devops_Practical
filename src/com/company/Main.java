@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("This is a Devops Practical");
         System.out.println("This a new line making changes!");
+        System.out.println("This is the third line");
     }
 }
